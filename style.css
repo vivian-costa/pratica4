@@ -39,3 +39,16 @@ ul{
     color:black ;
     border-radius: 10px 10px 0px 0px;
 }
+
+#corpo{
+    background-color:palegoldenrod ;
+    width:50% ;
+    padding: 10px;
+}
+#embaixo{
+    background-color: blue;
+    font-size:15px ;
+    text-align: center;
+    width: 100% ;
+    color: aqua;
+}
